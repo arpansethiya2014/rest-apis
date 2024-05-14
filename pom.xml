@@ -47,7 +47,7 @@
 	</dependencies>
 
 	<build>
-	<finalName>javaapp</finalName>
+	<finalName>rest-api</finalName>
 		<plugins>
             <plugin>
                 <groupId>org.springframework.boot</groupId>
